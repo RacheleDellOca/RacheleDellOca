@@ -1,5 +1,7 @@
 👋 Hi, I’m Rachele Dell'Oca
+
 👀 I’m interested in Data Analysis
+
 🌱 I’m currently learning Python for Data Analytics
 
 
